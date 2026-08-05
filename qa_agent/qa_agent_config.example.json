@@ -1,0 +1,5 @@
+{
+  "LLM_URL": "https://your-llm-foundry-host/v1/chat/completions",
+  "API_KEY": "paste-your-api-key-here",
+  "MODEL": "gpt-4o-mini"
+}

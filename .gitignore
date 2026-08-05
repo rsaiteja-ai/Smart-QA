@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Runtime files and logs
+*.log
+temp_uploads/
+temp_image_*.png
+
+# Local tooling metadata
+.agents/
+.codex/
